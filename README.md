@@ -1,3 +1,8 @@
+# Problem Solving in C#
+
+![Demo](https://3447149067-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/spaces%2F-MdynmZrfNEt1WSSrlHq%2Favatar-1625630560303.png?generation=1625630560729226&alt=media)
+
+
 # Allah's 99 Names
 
 This program prints the 99 names of Allah, along with their meanings, one by one on the console. It's a simple C# program designed for problem-solving purposes.
